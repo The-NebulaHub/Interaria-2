@@ -88,9 +88,9 @@ Além das apresentações, o Teatro da Cidade do Saber funciona como um importan
 
 A presença do teatro contribui diretamente para a valorização das artes visuais e das demais manifestações culturais da cidade, incentivando a criatividade, a inclusão social e o acesso à cultura para os jovens camaçarienses.
 
-### Teatro Cidade do Saber
+### Cidade do Saber
 
-![Teatro Cidade do Saber](img/teatro-cidade-do-saber.jpg)
+![Teatro Cidade do Saber - Camaçari](https://www.cache2net4.com//Repositorio/8583/Publicacoes/537447/real_1257_394659692a460258b45a99f1424ea357.jpg)
 
 ### Importância para as Artes Visuais
 
