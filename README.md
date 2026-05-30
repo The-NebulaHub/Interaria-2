@@ -1,6 +1,6 @@
-# Pesquisa Completa sobre Camaçari: Linguagem Corporal e Cultural
+# Linguagem Corporal e Cultural
 
-## 1. Introdução
+## Introdução
 
 Camaçari é um município da Bahia, localizado na Região Metropolitana de Salvador. Destaca-se tanto por seu Polo Industrial quanto por sua rica diversidade cultural, influenciada por heranças africanas, indígenas e nordestinas.
 
@@ -8,7 +8,7 @@ A linguagem corporal e cultural dos seus habitantes reflete essa mistura, manife
 
 ---
 
-## 2. Contexto Histórico e Social
+## Contexto Histórico e Social
 
 A origem de Camaçari está ligada a aldeamentos indígenas e missões jesuíticas no período colonial. A partir da década de 1970, a implantação do Polo Petroquímico impulsionou o crescimento urbano e econômico.
 
@@ -24,7 +24,7 @@ A origem de Camaçari está ligada a aldeamentos indígenas e missões jesuític
 
 ---
 
-## 3. Identidade Cultural
+## Identidade Cultural
 
 A cultura de Camaçari é resultado da combinação de:
 
@@ -37,7 +37,7 @@ Essa diversidade gera uma identidade cultural rica e dinâmica.
 
 ---
 
-## 4. Influência Afro-Brasileira
+## Influência Afro-Brasileira
 
 A presença africana impacta diretamente:
 
@@ -49,7 +49,7 @@ A presença africana impacta diretamente:
 
 ---
 
-## 5. Povos Indígenas e Quilombolas
+## Povos Indígenas e Quilombolas
 
 O município possui presença significativa de:
 
@@ -65,22 +65,22 @@ Esses grupos influenciam:
 
 ---
 
-## 6. Linguagem Corporal
+## Linguagem Corporal
 
-### 6.1 Comunicação Próxima
+### Comunicação Próxima
 
 - Proximidade física durante conversas;
 - Contato visual constante;
 - Uso frequente de gestos;
 - Expressões faciais intensas.
 
-### 6.2 Expressividade
+### Expressividade
 
 - Demonstrações claras de emoções;
 - Voz com variações naturais;
 - Sorrisos e entusiasmo frequentes.
 
-### 6.3 Interação Social
+### Interação Social
 
 - Abraços como cumprimento;
 - Conversas em grupo;
@@ -88,7 +88,7 @@ Esses grupos influenciam:
 
 ---
 
-## 7. Linguagem Cultural
+## Linguagem Cultural
 
 ### Música
 
@@ -114,7 +114,7 @@ Esses grupos influenciam:
 
 ---
 
-## 8. Religiosidade
+## Religiosidade
 
 Diversidade religiosa:
 
@@ -127,7 +127,7 @@ A religiosidade influencia símbolos corporais, festas e tradições.
 
 ---
 
-## 9. Impacto do Polo Industrial
+## Impacto do Polo Industrial
 
 ### Pontos positivos
 
@@ -143,7 +143,7 @@ A religiosidade influencia símbolos corporais, festas e tradições.
 
 ---
 
-## 10. Características Sociais
+## Características Sociais
 
 ### Hospitalidade
 
@@ -163,7 +163,7 @@ A religiosidade influencia símbolos corporais, festas e tradições.
 
 ---
 
-## 11. Conclusão
+## Conclusão
 
 Camaçari apresenta uma identidade cultural complexa, marcada pela mistura de influências históricas e sociais. Sua linguagem corporal é expressiva e acolhedora, refletindo valores comunitários e culturais fortes.
 
