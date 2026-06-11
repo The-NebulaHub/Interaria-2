@@ -47,6 +47,17 @@ Na **educação**, consolidou-se como ferramenta pedagógica indispensável na r
 * **Facilita o aprendizado:** Explica conteúdos complexos por meio de vídeos e infográficos animados.
 * **Engajamento e inclusão:** Atrai a atenção dos estudantes e promove a acessibilidade (através de Libras e audiodescrição).
 * **Protagonismo jovem:** Estimula os alunos a produzirem seus próprios conteúdos, desenvolvendo o pensamento crítico.
+---
+## Dados e Panorama do Audiovisual em Camaçari
+
+| Indicador / Recurso | Detalhes e Impacto Local |
+| :--- | :--- |
+| **Principais Leis de Fomento** | Lei Paulo Gustavo (LPG) e Lei Aldir Blanc (PNAE). |
+| **Recursos Injetados (LPG Local)** | Mais de R$ 1,2 milhão de reais direcionados estritamente ao setor cultural e audiovisual do município. |
+| **Projetos Contemplados** | Cerca de 76 propostas locais premiadas (entre curtas-metragens, videoclipes, games e webdocumentários). |
+| **Polos de Exibição e Formação** | Cidade do Saber (Sede), Núcleos de Cultura da Orla (Arembepe e Vila de Abrantes). |
+| **Principais Festas Registradas** | Lavagem de Arembepe, Lavagem de Jauá, Camaforró e Festas de Reis. |
+| **Instituições de Ensino Envolvidas** | Rede Municipal de Ensino, IFBA (Campus Camaçari) e UNEB. |
 
 ---
 
