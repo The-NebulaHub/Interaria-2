@@ -1,5 +1,7 @@
 # Linguagem Audiovisual em Camaçari
 
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/cb53e410-5120-464a-af7f-e68ead35ff47" />
+
 ## O que é Linguagem Audiovisual?
 
 A linguagem audiovisual combina imagens, sons e movimentos para transmitir mensagens e construir narrativas eficazes. Ela está presente no cinema, na TV, no streaming e nas redes sociais.
