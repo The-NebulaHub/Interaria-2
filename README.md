@@ -1,4 +1,4 @@
-# Linguagem Digital em Camaçari (BA): Transformações Tecnológicas, Inclusão Digital e Impactos Sociais
+# Linguagem Digital em Camaçari (BA): Transformações Tecnológicas, Inclusão Digital e Impactos SociaiS
 
 ![Transformação Digital em Camaçari](https://cdn.atarde.com.br/img/Artigo-Destaque/1210000/Artigo-Destaque_01216177_00.jpg?xid=5671698)
 
