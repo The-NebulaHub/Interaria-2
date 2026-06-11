@@ -1,6 +1,6 @@
 # Linguagem das Artes Visuais em Camaçari
 
-## Introdução
+## 1. Introdução
 
 A linguagem das artes visuais é uma forma de expressão que utiliza imagens, cores, desenhos, pinturas e outras manifestações artísticas para transmitir ideias, sentimentos e mensagens. Em Camaçari, essa linguagem está presente em diversos espaços da cidade, principalmente através do grafite, dos murais urbanos, das exposições culturais e dos projetos sociais que incentivam a arte entre os jovens.
 
@@ -8,7 +8,7 @@ As artes visuais contribuem para a valorização da cultura local, fortalecem a 
 
 ---
 
-## O Grafite e a Arte Urbana em Camaçari
+## 2. O Grafite e a Arte Urbana em Camaçari
 
 Uma das manifestações visuais mais presentes em Camaçari é o grafite. Além de embelezar a cidade, ele também transmite mensagens sobre cultura, identidade, igualdade social e pertencimento.
 
@@ -16,7 +16,7 @@ Em 2022, o projeto **"Da Palavra à Imagem"** levou artistas grafiteiras para a 
 
 Além disso, iniciativas recentes vêm transformando espaços urbanos da cidade em verdadeiras galerias a céu aberto. Um exemplo foi a revitalização de um túnel na Via Parafuso, onde artistas criaram pinturas inspiradas na fauna, flora e paisagens de Camaçari.
 
-### Exemplos de Arte Urbana
+### 3. Exemplos de Arte Urbana
 
 ![Arte Urbana 1](https://midias.correio24horas.com.br/2025/04/03/-projeto-mural---movimento-urbano-de-arte-livre--2674457-article.webp)
 
@@ -28,7 +28,7 @@ Além disso, iniciativas recentes vêm transformando espaços urbanos da cidade 
 
 ---
 
-## Artistas Relacionados à Cena Artística Local
+## 4. Artistas Relacionados à Cena Artística Local
 
 ### Emilly Sá
 
@@ -48,7 +48,7 @@ Artista responsável por importantes intervenções urbanas ligadas à arte de r
 
 ---
 
-## Exposições e Incentivo às Artes Visuais
+## 5. Exposições e Incentivo às Artes Visuais
 
 A cidade também recebe exposições e eventos voltados para as artes visuais. A Cidade do Saber já sediou o **Salão de Artes Visuais da Bahia**, reunindo obras de dezenas de artistas e aproximando a população da produção artística contemporânea.
 
@@ -56,17 +56,17 @@ Esses eventos ajudam a estimular a criatividade dos jovens e ampliam o acesso à
 
 ---
 
-## Vídeo e Projetos Culturais
+## 6. Vídeo e Projetos Culturais
 
 Um exemplo de iniciativa cultural é o projeto **"Arte que Transforma: Camaçari Descobre Suas Sete Maravilhas"**, que levou exposições e oficinas para comunidades da cidade, aproximando crianças e jovens das artes visuais e da história local.
 
-### Link para o projeto
+### 7. Link para o projeto
 
 - https://www.papodeartistabahia.com.br/post/arte-que-transforma-cama%C3%A7ari-descobre-suas-sete-maravilhas
 
 ---
 
-## Referências
+## 8. Referências
 
 - https://www.ba.gov.br/cultura/noticia/2024-02/61183/editalsetorial-grafiteiras-baianas-realizam-intervencao-urbana-em-camacari
 - https://comunicacaoestrategicacps.com.br/blog/projeto-transforma-tunel-de-camacari-ba-em-arte-urbana
@@ -76,7 +76,7 @@ Um exemplo de iniciativa cultural é o projeto **"Arte que Transforma: Camaçari
 
 ---
 
-## Teatro da Cidade do Saber
+## 9. Teatro da Cidade do Saber
 
 O Teatro da Cidade do Saber é um dos principais espaços culturais de Camaçari e possui grande importância para o desenvolvimento das artes visuais, do teatro, da dança e da música no município.
 
@@ -88,7 +88,7 @@ Além das apresentações, o Teatro da Cidade do Saber funciona como um importan
 
 A presença do teatro contribui diretamente para a valorização das artes visuais e das demais manifestações culturais da cidade, incentivando a criatividade, a inclusão social e o acesso à cultura para os jovens camaçarienses.
 
-### Cidade do Saber
+### 10. Cidade do Saber
 
 ![Teatro Cidade do Saber - Camaçari](https://www.cache2net4.com//Repositorio/8583/Publicacoes/537447/real_1257_394659692a460258b45a99f1424ea357.jpg)
 
@@ -98,7 +98,7 @@ O espaço frequentemente abriga exposições, mostras culturais e eventos artís
 
 ---
 
-## Conclusão
+## 11. Conclusão
 
 As artes visuais possuem grande importância para a juventude de Camaçari, pois permitem que os jovens expressem suas ideias, valorizem sua identidade cultural e ocupem os espaços urbanos de forma criativa. O grafite, os murais, as exposições e os projetos culturais demonstram que a arte vai além da estética: ela também promove educação, cidadania e transformação social.
 
