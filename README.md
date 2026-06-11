@@ -9,7 +9,7 @@ A linguagem audiovisual combina imagens, sons e movimentos para transmitir mensa
 **Principais elementos:**
 
 * **Imagens e enquadramentos:** Definem o ponto de vista através de planos e movimentos de câmera.
-* **Música e efeitos sonoros:** Ditam o tom emocional e trazem realismo às cenas.
+* **Música e efeitos sonoros:** Ditam o tom emocional e trazem realismo às cenas dos posts.
 * **Narração e diálogos:** Conduzem a história através da voz.
 * **Edição e montagem:** Ordenam as cenas para criar sentido e ritmo.
 * **Iluminação e cores:** Transmitem sensações psicológicas e estéticas.
@@ -22,7 +22,7 @@ Esses elementos trabalham juntos para tornar a comunicação clara, dinâmica e 
 
 Em Camaçari, o audiovisual é uma ferramenta estratégica para divulgar eventos, promover a educação e expressar a identidade local. A produção digital cresce impulsionada pelo acesso a smartphones e redes sociais, conectando artistas e estudantes ao público global.
 
-O setor também desempenha um papel crucial na preservação da memória da cidade. Ao registrar festas populares (como a Lavagem de Arembepe), tradições quilombolas e a história oral de mestres locais, o audiovisual salvaguarda o patrimônio imaterial do município.
+O setor também desempenha um papel crucial na preservação da memória da cidade. Ao registrar festas populares, tradições quilombolas e a história oral de mestres locais, o audiovisual salvaguarda o patrimônio imaterial do município.
 
 ---
 
